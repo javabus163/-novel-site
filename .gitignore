@@ -4,3 +4,8 @@ node_modules/
 _deploy/
 package-lock.json
 pnpm-lock.yaml
+
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
