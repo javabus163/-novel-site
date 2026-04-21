@@ -4,3 +4,9 @@ node_modules/
 _deploy/
 package-lock.json
 pnpm-lock.yaml
+
+# Tencent Cloud EdgeOne
+.env
+.edgeone/*
+.tef_dist/*
+  

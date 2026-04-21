@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "devDependencies": {
+    "wrangler": "^4.84.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "workerd"]
+  }
+}
