@@ -1,3 +1,4 @@
 node_modules/
-generate_data.js
 *.log
+.wrangler/
+_deploy/
