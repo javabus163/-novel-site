@@ -2,3 +2,5 @@ node_modules/
 *.log
 .wrangler/
 _deploy/
+package-lock.json
+pnpm-lock.yaml
